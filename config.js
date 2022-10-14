@@ -3,34 +3,34 @@
 //Dalam file _menunya.js
 
 //『 Utama 』 //
-global.owner = ['6282229451290']  // isi jika perlu
-global.mods = ['6282xxxxxx']   // isi jika perlu
-global.prems = ['6282xxxxxx']  // isi jika perlu
+global.owner = ['6285743137623']  // isi jika perlu
+global.mods = ['6285743137623']   // isi jika perlu
+global.prems = ['6285743137623']  // isi jika perlu
 
 //Isi dengan nama dan nomor lu//
-global.nameowner = '⫹⫺ 𝐊𝐀𝐇𝐅𝐈-𝐗𝐃✓' // isi nama kalian bebas
-global.numberowner = '6285380166282' // isi nomor kalian dengan awalan seperti di contoh 
-global.instagram = 'https://instagram.com/kahfiofc0' // isi Instagram kalian harus link
-global.github = 'https://github.com/Maxxy-Md' // gausah di isi juga gpp bro
-global.dana = '085380166282' // isi dengan nomor dana yg kamu punya 
-global.pulsa = '6285295374964' // isi dengan nomor pulsa hp kalian
+global.nameowner = '⫹⫺ Balz ofc' // isi nama kalian bebas
+global.numberowner = '6285743137623' // isi nomor kalian dengan awalan seperti di contoh 
+global.instagram = 'https://instagram.com/Balzelite' // isi Instagram kalian harus link
+global.github = 'https://yandex.com' // gausah di isi juga gpp bro
+global.dana = '6285743137623' // isi dengan nomor dana yg kamu punya 
+global.pulsa = '6285743137623' // isi dengan nomor pulsa hp kalian
 global.gopay = ''
 
 //Name Bot & Grouplink//
-global.namebot = '𝒀𝒕 𝑴𝒂𝒙𝒙𝒚 𝑩𝒐𝒕𝒛'
-global.gc = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt'
-global.web = 'https://lynk.id/kahfi.xd' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
+global.namebot = 'Balz 𝑩𝒐𝒕𝒛'
+global.gc = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kyt'
+global.web = 'https://yandex.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.price1 = '1 minggu = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //Tanpilan wm Bot ( Sebagian Tidak di fungsi kan)//
 global.fotonya1 = 'https://botcahx-rest-api.herokuapp.com/api/textpro/marvel-studios?text=List%20&text2=Menu' 
 global.fotonya2 = 'https://botcahx-rest-api.herokuapp.com/api/textpro/marvel-studios?text=List%20&text2=Menu' 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© 𝒀𝒕 𝑴𝒂𝒙𝒙𝒚 𝑩𝒐𝒕𝒛'
+global.wm = '© 𝒀𝒕 Balz 𝑩𝒐𝒕𝒛'
 global.watermark = wm
-global.wm2 = '⫹⫺ 𝒀𝒕 𝑴𝒂𝒙𝒙𝒚 𝑩𝒐𝒕𝒛'
-global.wm3 = '© 𝒀𝒕 𝑴𝒂𝒙𝒙𝒚 𝑩𝒐𝒕𝒛'
+global.wm2 = '⫹⫺ 𝒀𝒕 Balz 𝑩𝒐𝒕𝒛'
+global.wm3 = '© 𝒀𝒕 balz 𝑩𝒐𝒕𝒛'
 global.wm4 = '© 2022/2023'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -40,9 +40,9 @@ global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
-global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
+global.stiker_wait = '*⫹⫺ Stiker sedang dibuat sabar ya kont...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp\n𝒀𝒕 𝑴𝒂𝒙𝒙𝒚 𝑩𝒐𝒕𝒛'
+global.author = 'Bot WhatsApp\n𝒀𝒕 balz 𝑩𝒐𝒕𝒛'
 
 //Apikey Setting//
 global.APIs = { // API Prefix
